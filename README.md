@@ -8,3 +8,5 @@ Polygenic Insights: SNP-based heritability is 12.15%, with shared etiopathology 
 Integrating GWAS with single-cell RNA-sequencing data from the myenteric plexus highlighted CD8+ T cell subsets (FOS+Tc4+ and ZNF683+Tc5+) as central players in IA development. These findings provide novel insights into the genetic and cellular mechanisms underlying IA.
 
 Our gene prioritization is based on Multi-marker Analysis of GenoMic Annotation [MAGMA](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004219).
+We have further used single cell disease relevant [scDRS](https://www.nature.com/articles/s41588-022-01167-z) to calculate the preferential expression of genes associated with Achalasia within different cell types of LOS/myenteric plexus tissue.
+
