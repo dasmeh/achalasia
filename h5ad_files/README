@@ -1,2 +1,8 @@
-All the single-cell data from LOS/myenteric plexus tiussues of healthy donors are available upon request.
-This dataset was first published by [Liu et al](https://www.nature.com/articles/s41467-023-39750-5#data-availability).
+All the single-cell data from LOS/myenteric plexus tiussues of healthy donors
+in h5ad format and annotated with disease scores are available upon request.
+Pouria Dasmeh, Center for Human Genetics, Marburg University
+Dasmeh@staff.uni-marburg.de
+
+The full dataset has been published by [Liu et al](https://www.nature.com/articles/s41467-023-39750-5#data-availability),
+and accessible in the Genome Sequence Archive for Human (GSA-Human) database of the National Genomics Data Center 
+under the primary accession code HRA002791 (https://ngdc.cncb.ac.cn/gsa-human/browse/HRA002791).
