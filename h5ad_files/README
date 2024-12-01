@@ -3,4 +3,6 @@ in h5ad file and annotated with cell type and diease scores are available upon r
 Pouria Dasmeh, Center for Human Genetics, Marburg University
 Dasmeh@staff.uni-marburg.de
 
-This dataset is taken from the full dataste published by [Liu et al](https://www.nature.com/articles/s41467-023-39750-5#data-availability).
+The full dataset has been published by [Liu et al](https://www.nature.com/articles/s41467-023-39750-5#data-availability),
+and accessible in the Genome Sequence Archive for Human (GSA-Human) database of the National Genomics Data Center 
+under the primary accession code HRA002791 (https://ngdc.cncb.ac.cn/gsa-human/browse/HRA002791).
